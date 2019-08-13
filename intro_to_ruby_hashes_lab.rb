@@ -44,16 +44,16 @@ def monopoly_with_fourth_tier
       },
       :names => {
         :reading_railroad => {
-          :mortgage_value => "$100"
+          :mortgage_value => "$" + 100.to_s
         },
         :pennsylvania_railroad => {
-          :mortgage_value => "$100"
+          :mortgage_value => "$" + 100.to_s
         },
         :b_and_o_railroad => {
-          :mortgage_value => "$100"
+          :mortgage_value => "$" + 100.to_s
         },
         :shortline_railroad => {
-          :mortgage_value => "$100"
+          :mortgage_value => "$" + 100.to_s
         }
       }
     }
