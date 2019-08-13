@@ -1,6 +1,6 @@
 def base_hash
   first_hash = {
-    :first_item = "item1"
+    :first_item => "item1"
   }
 end
 
