@@ -1,6 +1,6 @@
 def base_hash
   first_hash = {
-    :railroads => "reading"
+    :railroads => {}
   }
 end
 
